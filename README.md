@@ -1,2 +1,2 @@
-# pydreditor
-Dre's [Python Text] Editor
+# dreditor
+Dre's [Rust Text] Editor
